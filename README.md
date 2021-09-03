@@ -1,7 +1,6 @@
-<center><h1><b>Wordcloud</b></h1></center>
-
-&nbsp;<h2><b>Joel Yohannan</b></h2>
-<h2><b>April 18th, 2021</b></h2></center>
+<h1><b>Wordcloud</b></h1>
+<h2><b>Joel Yohannan
+April 18th, 2021</b></h2>
 
 <h2><b>Introduction</b></h2>
 <p>A word cloud (also called tag cloud or weighted list) is a visual representation of textual information. Words/tags are usually single words, and the importance of each is shown with varying font size or color. In this project I represent the data provided in “hidden wc data” text file as a wordcloud and represent the most frequently used words.</p>
