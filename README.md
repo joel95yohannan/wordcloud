@@ -1,6 +1,6 @@
-<center><h1><b>Wordcloud</b></h1>
+<center><h1><b>Wordcloud</b></h1></center>
 
-<h2><b>Joel Yohannan</b></h2>
+&nbsp;<h2><b>Joel Yohannan</b></h2>
 <h2><b>April 18th, 2021</b></h2></center>
 
 <h2><b>Introduction</b></h2>
